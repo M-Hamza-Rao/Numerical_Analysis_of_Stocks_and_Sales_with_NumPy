@@ -1,3 +1,4 @@
+Project
 PROJECT PAPER, DATED: 16/11/2024
 Numerical Analysis of Stocks and Sales Data with NumPy
 
